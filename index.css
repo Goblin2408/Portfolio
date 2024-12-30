@@ -1,1 +1,10 @@
-
+body {
+    background-color: rgb(90, 122, 110);
+}
+h1{
+    text-align: center;
+}
+.gabin{
+    text-align: left;
+    
+}
